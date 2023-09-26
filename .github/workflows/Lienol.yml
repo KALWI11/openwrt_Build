@@ -13,7 +13,7 @@ on:
       ssh:
         description: 'ssh'
         required: false
-        default: 'false'
+        default: 'true'
 
 env:
   UPLOAD_BIN_DIR: false
